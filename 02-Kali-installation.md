@@ -2,12 +2,10 @@
 
 A step-by-step guide to installing and configuring Kali Linux inside Oracle VM VirtualBox for cybersecurity learning, ethical hacking, and penetration testing.
 
-"Kali Linux" (https://img.shields.io/badge/OS-Kali%20Linux-blue)
-"VirtualBox" (https://img.shields.io/badge/Platform-VirtualBox-blue)
-"Category" (https://img.shields.io/badge/Domain-Cybersecurity-red)
-"Purpose" (https://img.shields.io/badge/Purpose-Education-green)
-
----
+![VirtualBox](https://img.shields.io/badge/VirtualBox-7.2-blue)
+![Kali Linux](https://img.shields.io/badge/Kali-Linux-blue)
+![Cybersecurity](https://img.shields.io/badge/Domain-Cybersecurity-red)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 📌 1. Introduction
 
@@ -296,7 +294,6 @@ Always obtain proper authorization before testing any network, website, applicat
 
 Never perform security testing against systems without permission.
 
----
 
 📚 References
 
@@ -305,9 +302,7 @@ Never perform security testing against systems without permission.
 - Kali Linux Downloads: https://www.kali.org/get-kali/
 - Oracle VirtualBox: https://www.virtualbox.org/
 
----
 
-Project: Cybersecurity Lab Environment Setup
 
 Platform: Oracle VM VirtualBox
 
